@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">🔭 I’m currently working at a Startup Recooty as a Machine Learning Intern.<br>🌱 I’m currently learning Git.<br>🎲 Fun fact: Watched Dark 5 times.</p>
+<p align="left">🔭 I’m currently working at a Startup Recooty as a Machine Learning Intern.<br>🌱 I’m currently learning Git and WordPress.<br>🎲 Fun fact: Watched Dark 5 times.</p>
 
 ###
 
